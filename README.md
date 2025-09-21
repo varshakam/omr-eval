@@ -1,3 +1,5 @@
+hello we are the students of cananra engineering college a team of 3 varsha prathiksha and akshitha from mangalore. we have chossen the problem statement 1 
+omr evaluation system.
 # omr-eval
 You can copy-paste the README.md content I wrote directly into a new file named README.md in your project folder.
 
